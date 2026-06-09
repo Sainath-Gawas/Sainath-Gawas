@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💻 About Me<br><br>I'm an Information Technology & Engineering student specializing in Data Science with a keen interest in software development, data analytics and machine learning. I enjoy building practical solutions, exploring emerging technologies and continuously expanding my skills through projects and hands-on learning.<br>
 
 
